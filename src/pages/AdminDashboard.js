@@ -1,4 +1,8 @@
 // src/pages/AdminDashboard.js
+import { useNavigate } from "react-router-dom";
+import { onAuthStateChanged } from "firebase/auth";
+import { auth } from "../services/firebase"; // your firebase.js setup
+import { ADMIN_EMAIL, ADMIN_PASSWORD } from "../utils/authConfig";
 
 import React, { useState, useEffect } from "react";
 import { motion, AnimatePresence } from "framer-motion";

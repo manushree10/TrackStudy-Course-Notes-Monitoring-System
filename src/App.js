@@ -2,6 +2,7 @@
 
 import React from "react";
 import { BrowserRouter, Routes, Route } from "react-router-dom";
+import AuthPage from "./pages/AuthPage";
 import Signup from "./pages/signup";
 import Login from "./pages/Login";
 import Dashboard from "./pages/Dashboard";
@@ -14,6 +15,7 @@ function App() {
     <BrowserRouter>
       <Routes>
         {/* Public Routes */}
+        <Route path="/" element={<AuthPage />} />
         <Route path="/" element={<Signup />} />
         <Route path="/login" element={<Login />} />
 
