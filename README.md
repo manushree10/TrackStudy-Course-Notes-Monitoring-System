@@ -1,3 +1,49 @@
+# 🎓 TrackStudy - Course Notes Monitoring System
+
+A complete **Full-Stack Learning Management System** built with:
+- 🔐 **Role-based login** (Student, Teacher, Admin)
+- ✅ Google/GitHub Authentication (via Firebase)
+- 📥 Upload/Download Courses (Spring Boot + File Storage)
+- 📊 Admin Dashboard with Realtime Charts (Recharts)
+- 💾 MySQL Database integration
+
+---
+
+## 📸 Screenshots
+
+### 🔑 Login & Signup
+<img src="./screenshots/signinlogin.png" width="400"/>
+
+### ⚙️ Admin Dashboard
+<img src="./screenshots/users.png" width="100%"/>
+<img src="./screenshots/courses.png" width="100%"/>
+<img src="./screenshots/graph.png" width="100%"/>
+
+### 👨‍🏫 Teacher Dashboard
+<img src="./screenshots/teacher.png" width="100%"/>
+
+### 🎓 Student Dashboard
+<img src="./screenshots/student.png" width="100%"/>
+
+---
+
+## 🔧 Local Setup
+
+### 🖥️ 1. Backend (Spring Boot)
+
+```bash
+cd backend
+./mvnw spring-boot:run
+
+### 🖥️ 2. Frontend (React)
+cd frontend
+npm install
+npm start
+
+### Author
+Developed and maintained by **Manushree N**
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
