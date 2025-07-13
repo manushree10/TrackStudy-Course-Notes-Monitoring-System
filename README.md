@@ -12,18 +12,18 @@ A complete **Full-Stack Learning Management System** built with:
 ## 📸 Screenshots
 
 ### 🔑 Login & Signup
-<img src="./screenshots/signinlogin.png" width="400"/>
+<img src="./screenshots1/signinlogin.png" width="400"/>
 
 ### ⚙️ Admin Dashboard
-<img src="./screenshots/users.png" width="100%"/>
-<img src="./screenshots/courses.png" width="100%"/>
-<img src="./screenshots/graph.png" width="100%"/>
+<img src="./screenshots1/users.png" width="100%"/>
+<img src="./screenshots1/courses.png" width="100%"/>
+<img src="./screenshots1/graph.png" width="100%"/>
 
 ### 👨‍🏫 Teacher Dashboard
-<img src="./screenshots/teacher.png" width="100%"/>
+<img src="./screenshots1/teacher.png" width="100%"/>
 
 ### 🎓 Student Dashboard
-<img src="./screenshots/student.png" width="100%"/>
+<img src="./screenshots1/student.png" width="100%"/>
 
 ---
 
