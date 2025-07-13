@@ -12,7 +12,7 @@ A complete **Full-Stack Learning Management System** built with:
 ## 📸 Screenshots
 
 ### 🔑 Login & Signup
-<img src="./screenshots1/signinlogin.png" width="600"/>
+<img src="./screenshots1/signinlogin.png" width="1000"/>
 
 ### ⚙️ Admin Dashboard
 <img src="./screenshots1/users.png" width="100%"/>
