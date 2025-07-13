@@ -12,18 +12,18 @@ A complete **Full-Stack Learning Management System** built with:
 ## 📸 Screenshots
 
 ### 🔑 Login & Signup
-<img src="./screenshots1/signinlogin.png" width="1000"/>
+<img src="./screenshots1/signinlogin.png" width="800"/>
 
 ### ⚙️ Admin Dashboard
-<img src="./screenshots1/users.png" width="100%"/>
-<img src="./screenshots1/courses.png" width="100%"/>
-<img src="./screenshots1/graph.png" width="100%"/>
+<img src="./screenshots1/users.png" width="80%"/>
+<img src="./screenshots1/courses.png" width="80%"/>
+<img src="./screenshots1/graph.png" width="80%"/>
 
 ### 👨‍🏫 Teacher Dashboard
-<img src="./screenshots1/teacher.png" width="100%"/>
+<img src="./screenshots1/teacher.png" width="80%"/>
 
 ### 🎓 Student Dashboard
-<img src="./screenshots1/student.png" width="100%"/>
+<img src="./screenshots1/student.png" width="80%"/>
 
 ---
 
@@ -35,10 +35,11 @@ A complete **Full-Stack Learning Management System** built with:
 cd backend
 ./mvnw spring-boot:run
 
- 🖥️ 2. Frontend (React)
-cd frontend
-npm install
-npm start
+
+    🖥️ 2. Frontend (React)
+    cd frontend
+    npm install
+    npm start
 
 👤 Author
 Developed and maintained by **Manushree N**
