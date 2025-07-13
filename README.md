@@ -35,12 +35,12 @@ A complete **Full-Stack Learning Management System** built with:
 cd backend
 ./mvnw spring-boot:run
 
-### 🖥️ 2. Frontend (React)
+ 🖥️ 2. Frontend (React)
 cd frontend
 npm install
 npm start
 
-### Author
+👤 Author
 Developed and maintained by **Manushree N**
 
 
