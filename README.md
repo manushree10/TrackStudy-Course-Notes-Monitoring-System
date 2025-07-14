@@ -44,7 +44,7 @@ cd backend
 👤 Author
 Developed and maintained by **Manushree N**
 
-
+---
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
