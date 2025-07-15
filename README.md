@@ -18,9 +18,12 @@ It enables **role-based access** for Students, Teachers, and Admins, along with 
 - [📄 License](#-license)
 
 ---
-👨‍💻 Contributors
-Name	          Role	               GitHub Profile
-Manushree N 	Full Stack Developer	@manushree10
+## 👨‍💻 Contributors
+
+| Name         | Role                | GitHub Profile                             |
+|--------------|---------------------|---------------------------------------------|
+| Manushree N  | Full Stack Developer | [@manushree10](https://github.com/manushree10) |
+
 ---
 ## ✨ Features
 
