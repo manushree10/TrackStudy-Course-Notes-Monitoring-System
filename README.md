@@ -18,7 +18,11 @@ It enables **role-based access** for Students, Teachers, and Admins, along with 
 - [📄 License](#-license)
 
 ---
+👨‍💻 Contributors
+Name	          Role	           GitHub Profile
+Manushree N	Full Stack Developer	@manushree10
 
+---
 ## ✨ Features
 
 - 🔐 **Role-Based Login**: Admin, Teacher, and Student dashboards
@@ -78,11 +82,9 @@ Firebase Auth (OAuth)
 ├── pom.xml
 └── .gitignore
 
-👨‍💻 Contributors
-Name	Role	GitHub Profile
-Manushree N	Full Stack Developer	@manushree10
 
-PRs and collaborations are welcome!
+
+
 
 
 ## 📸 Screenshots
