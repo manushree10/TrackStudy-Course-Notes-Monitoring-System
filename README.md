@@ -19,9 +19,8 @@ It enables **role-based access** for Students, Teachers, and Admins, along with 
 
 ---
 👨‍💻 Contributors
-Name	          Role	           GitHub Profile
-Manushree N	Full Stack Developer	@manushree10
-
+Name	          Role	               GitHub Profile
+Manushree N 	Full Stack Developer	@manushree10
 ---
 ## ✨ Features
 
