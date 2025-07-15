@@ -1,13 +1,47 @@
 # 🎓 TrackStudy - Course Notes Monitoring System
-
-A complete **Full-Stack Learning Management System** built with:
-- 🔐 **Role-based login** (Student, Teacher, Admin)
-- ✅ Google/GitHub Authentication (via Firebase)
-- 📥 Upload/Download Courses (Spring Boot + File Storage)
-- 📊 Admin Dashboard with Realtime Charts (Recharts)
-- 💾 MySQL Database integration
+**TrackStudy** is a modern, full-stack web application designed to manage and monitor educational course materials with ease.  
+It enables **role-based access** for Students, Teachers, and Admins, along with **analytics**, **file upload/download**, and **Firebase OAuth integration**.
 
 ---
+
+## 📌 Table of Contents
+- [✨ Features](#-features)
+- [🧠 Project Overview](#-project-overview)
+- [📐 Architecture](#-architecture)
+- [🛠️ Tech Stack](#-tech-stack)
+- [🧭 Folder Structure](#-folder-structure)
+- [📸 Screenshots](#-screenshots)
+- [🧰 Local Setup Guide](#-local-setup-guide)
+- [🔐 Firebase OAuth Setup](#-firebase-oauth-setup)
+- [🧑‍💻 Contributors](#-contributors)
+- [🚀 Deployment Suggestions](#-deployment-suggestions)
+- [📄 License](#-license)
+
+---
+
+## ✨ Features
+
+- 🔐 **Role-Based Login**: Admin, Teacher, and Student dashboards
+- 🧾 **Course Upload/Download** with file handling via Spring Boot
+- ✅ **Google/GitHub Authentication** using Firebase OAuth
+- 📊 **Admin Analytics Dashboard** with dynamic charts (Recharts)
+- 💾 **MySQL integration** for persistent data
+- 🌐 Fully responsive UI built with React.js
+
+---
+
+## 🧠 Project Overview
+
+> A smart course note tracking platform ideal for institutions and e-learning environments.
+
+- Admin can manage users and view system analytics
+- Teachers can upload notes, materials, or resources
+- Students can view/download resources
+- Authenticated access ensures data security
+
+---
+
+
 
 ## 📸 Screenshots
 
