@@ -40,7 +40,49 @@ It enables **role-based access** for Students, Teachers, and Admins, along with 
 - Authenticated access ensures data security
 
 ---
+## 📐 Architecture
 
+React (Frontend) ---> Spring Boot (Backend) ---> MySQL (Database)
+|
+Firebase Auth (OAuth)
+
+
+---
+
+## 🛠️ Tech Stack
+
+| Layer        | Technology              |
+|--------------|--------------------------|
+| Frontend     | React, Tailwind/Bootstrap |
+| Backend      | Java, Spring Boot         |
+| Database     | MySQL                     |
+| Charts       | Recharts                  |
+| Auth         | Firebase (Google, GitHub) |
+| Tools        | Git, GitHub, Postman      |
+
+---
+
+## 🧭 Folder Structure
+
+```bash
+.
+├── backend/
+│   └── src/             # Spring Boot controllers, models
+│   └── uploads/         # File storage
+├── frontend/
+│   └── src/             # React Components, Routes
+│   └── public/
+├── screenshots1/        # README images
+├── README.md
+├── package.json
+├── pom.xml
+└── .gitignore
+
+👨‍💻 Contributors
+Name	Role	GitHub Profile
+Manushree N	Full Stack Developer	@manushree10
+
+PRs and collaborations are welcome!
 
 
 ## 📸 Screenshots
